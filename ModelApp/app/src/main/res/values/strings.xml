@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ModelApp</string>
+    <string name="app_na">Plant Disease</string>
+    <string name="action_settings">Plant Disease</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
+
+</resources>
