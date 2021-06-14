@@ -10,20 +10,16 @@ Please make sure to update tests as appropriate.
 
 ##  IMAGES
 <img width="400" height="800" src="screescreenshot/AboutUs.png">
-<img width="400" height="800" src="img/screenshot/DevicePermissionsPage.png">
-<img width="400" height="800" src="img/screenshot/DiseasePrediction.png">
-<img width="400" height="800" src="img/screenshot/4.png">
-<img width="400" height="800" src="img/screenshot/5.png">
-<img width="400" height="800" src="img/screenshot/6.png">
-<img width="400" height="800" src="img/screenshot/7.png">
-<img width="400" height="800" src="img/screenshot/8.png">
-<img width="400" height="800" src="img/screenshot/9.png">
-<img width="400" height="800" src="img/screenshot/10.png">
-<img width="400" height="800" src="img/screenshot/11.png">
+<img width="400" height="800" src="screescreenshot/DevicePermissionsPage.png">
+<img width="400" height="800" src="screescreenshot/DiseasePrediction.png">
+<img width="400" height="800" src="screescreenshot/DiseasePrediction2.png">
+<img width="400" height="800" src="screescreenshot/ExternalLinksPage.png">
+<img width="400" height="800" src="screescreenshot/HomePage.png">
+<img width="400" height="800" src="screescreenshot/Remedies2.png">
 <img width="400" height="800" src="screescreenshot/RemediesPage.png">
-<img width="400" height="800" src="img/screenshot/14.png">
+<img width="400" height="800" src="screescreenshot/Screenshot_1622462151.png">
 <img width="400" height="800" src="screescreenshot/SplashScreen.png">
-<img src="database/ER.png">
+
 
 
 ## Created By
