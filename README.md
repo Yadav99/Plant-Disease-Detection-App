@@ -9,8 +9,8 @@ Please make sure to update tests as appropriate.
 
 
 ##  IMAGES
-<img width="400" height="800" src="screescreenshot/AboutUs.png">
-<img width="400" height="800" src="screescreenshot/DevicePermissionsPage.png">
+<img width="400" height="800" src="screescreenshot/AboutUs.png"><img width="400" height="800" src="screescreenshot/DevicePermissionsPage.png">
+
 <img width="400" height="800" src="screescreenshot/DiseasePrediction.png">
 <img width="400" height="800" src="screescreenshot/DiseasePrediction2.png">
 <img width="400" height="800" src="screescreenshot/ExternalLinksPage.png">
