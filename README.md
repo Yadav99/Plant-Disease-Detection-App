@@ -11,7 +11,7 @@ Please make sure to update tests as appropriate.
 ##  IMAGES
 <img width="400" height="800" src="screescreenshot/AboutUs.png">
 <img width="400" height="800" src="img/screenshot/DevicePermissionsPage.png">
-<img width="400" height="800" src="img/screenshot/3.png">
+<img width="400" height="800" src="img/screenshot/DiseasePrediction.png">
 <img width="400" height="800" src="img/screenshot/4.png">
 <img width="400" height="800" src="img/screenshot/5.png">
 <img width="400" height="800" src="img/screenshot/6.png">
