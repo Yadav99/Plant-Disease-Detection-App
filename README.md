@@ -20,9 +20,9 @@ Please make sure to update tests as appropriate.
 <img src="img/screenshot/9.png">
 <img src="img/screenshot/10.png">
 <img src="img/screenshot/11.png">
-<img src="img/screenshot/13.png">
+<img src="screescreenshot/RemediesPage.png">
 <img src="img/screenshot/14.png">
-<img src="img/screenshot/15.png">
+<img src="screescreenshot/SplashScreen.png">
 <img src="database/ER.png">
 
 
