@@ -10,19 +10,19 @@ Please make sure to update tests as appropriate.
 
 ##  IMAGES
 <img width="400" height="800" src="screescreenshot/AboutUs.png">
-<img src="img/screenshot/2.png">
-<img src="img/screenshot/3.png">
-<img src="img/screenshot/4.png">
-<img src="img/screenshot/5.png">
-<img src="img/screenshot/6.png">
-<img src="img/screenshot/7.png">
-<img src="img/screenshot/8.png">
-<img src="img/screenshot/9.png">
-<img src="img/screenshot/10.png">
-<img src="img/screenshot/11.png">
-<img src="screescreenshot/RemediesPage.png">
-<img src="img/screenshot/14.png">
-<img src="screescreenshot/SplashScreen.png">
+<img width="400" height="800" src="img/screenshot/2.png">
+<img width="400" height="800" src="img/screenshot/3.png">
+<img width="400" height="800" src="img/screenshot/4.png">
+<img width="400" height="800" src="img/screenshot/5.png">
+<img width="400" height="800" src="img/screenshot/6.png">
+<img width="400" height="800" src="img/screenshot/7.png">
+<img width="400" height="800" src="img/screenshot/8.png">
+<img width="400" height="800" src="img/screenshot/9.png">
+<img width="400" height="800" src="img/screenshot/10.png">
+<img width="400" height="800" src="img/screenshot/11.png">
+<img width="400" height="800" src="screescreenshot/RemediesPage.png">
+<img width="400" height="800" src="img/screenshot/14.png">
+<img width="400" height="800" src="screescreenshot/SplashScreen.png">
 <img src="database/ER.png">
 
 
