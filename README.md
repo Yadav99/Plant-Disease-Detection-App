@@ -9,7 +9,7 @@ Please make sure to update tests as appropriate.
 
 
 ##  IMAGES
-<img width="100" height="100" src="screescreenshot/AboutUs.png">
+<img width="400" height="1200" src="screescreenshot/AboutUs.png">
 <img src="img/screenshot/2.png">
 <img src="img/screenshot/3.png">
 <img src="img/screenshot/4.png">
